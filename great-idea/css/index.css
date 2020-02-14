@@ -65,6 +65,7 @@ h1, h2, h3, h4, h5 {
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
+<<<<<<< HEAD
 #page{
 	max-width:900px;
 	margin:0 auto;
@@ -89,6 +90,20 @@ nav a{
 	text-decoration: none;
 }
 
+=======
+
+nav{
+	display:flex;
+	justify-content:space-evenly;
+
+}
+.navbar div a{
+	color:grey;
+	text-decoration:none;
+
+
+}
+>>>>>>> 70365ea85d40ad30c81f2df84d86d88e0d51f329
 #divimg {
 	display:flex;
 	justify-content:center;
@@ -98,12 +113,18 @@ nav a{
 	max-width:84%;
 }
 #services{
+<<<<<<< HEAD
 	max-width:84%;
 	margin:0 auto;
+=======
+max-width:80%;
+margin:20px 8%;
+>>>>>>> 70365ea85d40ad30c81f2df84d86d88e0d51f329
 }
 h2{
 	justify-content:space-evenly;
 }
+<<<<<<< HEAD
 
 hr{
 	width:84%;
@@ -178,3 +199,5 @@ footer{
 	max-width: 84%;
 	margin:0 auto;
 }
+=======
+>>>>>>> 70365ea85d40ad30c81f2df84d86d88e0d51f329
